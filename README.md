@@ -68,7 +68,7 @@ Linked IN - linkedin.com/in/chrism-la
 
 [forks-shield]: https://img.shields.io/github/forks/chrism-la/Scrolling-Cards.svg?style=for-the-badge
 [forks-url]: https://github.com/chrism-la/Scrolling-Cards/network/members
-[stars-shield]: https://img.shields.io/github/stars/Scrolling-Cards.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/chrism-la/Scrolling-Cards.svg?style=for-the-badge
 [stars-url]: https://github.com/chrism-la/Scrolling-Cards/stargazers
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-blue.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/chrism-la
