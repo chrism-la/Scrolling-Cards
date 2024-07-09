@@ -1,21 +1,18 @@
-# Scrolling-Cards 
 <a id="readme-top"></a>
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://chrism-la.github.io/Scrolling-Cards/">
-    <img src="images/tobias-van-schneider-lHGeqh3XhRY-unsplash.jpg" alt="Logo" width="80" height="80">
+    <img src="images/code-journey.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Scrolling-Cards</h3>
-
-
+  <br />
+  <br />
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -32,36 +29,49 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
-Smooth Scroll simple design using HTML and CSS only. This design uses the ( scroll-snap-type ) and ( scroll-snap-align ) properties to create a smooth scrolling effect on some standard card elements. This design doesnt need javascript and instead takes advantage of these CSS properties. 
+Smooth Scroll simple design using HTML and CSS only. This design uses the ( scroll-snap-type ) and ( scroll-snap-align ) properties to create a smooth scrolling effect on some standard card elements. This design doesnt need javascript and instead takes advantage of these CSS properties.
+<br />
+<br />
+<br />
 
 ### Built With
 
-* HTML
-* CSS
+-   HTML
+-   CSS
 
+<br />
+<br />
+<br />
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
+<br />
+<br />
+<br />
 <!-- CONTACT -->
+
 ## Contact
 
 Christopher Morales - chrismorales.la@gmail.com
 Linked IN - linkedin.com/in/chrism-la
 
+<br />
+<br />
+<br />
 <!-- ACKNOWLEDGMENTS -->
+
 ## Acknowledgments
 
-* [Coding2GO]([https://youtu.be/pBv7igaxfQE?si=sEUnuot12xura27j](https://youtu.be/PL3Odw-k8W4?si=X13jYWR-TfBmlHM0))
+-   [Coding2GO](<[https://youtu.be/pBv7igaxfQE?si=sEUnuot12xura27j](https://youtu.be/PL3Odw-k8W4?si=X13jYWR-TfBmlHM0)>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
