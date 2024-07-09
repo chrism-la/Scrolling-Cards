@@ -60,6 +60,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 ## Contact
 
 Christopher Morales - chrismorales.la@gmail.com
+<br />
 Linked IN - linkedin.com/in/chrism-la
 
 <br />
@@ -69,7 +70,7 @@ Linked IN - linkedin.com/in/chrism-la
 
 ## Acknowledgments
 
--   [Coding2GO](<[https://youtu.be/pBv7igaxfQE?si=sEUnuot12xura27j](https://youtu.be/PL3Odw-k8W4?si=X13jYWR-TfBmlHM0)>)
+-   [Coding2GO](https://youtu.be/PL3Odw-k8W4?si=X13jYWR-TfBmlHM0)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
